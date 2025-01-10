@@ -1,0 +1,9 @@
+dask==2023.3.2
+transformers==4.27.1
+pandas==1.5.3
+ipywidgets==8.0.7
+tensorflow==2.13.0
+torch==2.0.1
+torchvision==0.15.2
+accelerate==0.20.3
+deepspeed
