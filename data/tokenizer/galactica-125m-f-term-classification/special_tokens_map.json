@@ -1,0 +1,5 @@
+{
+  "bos_token": "<s>",
+  "eos_token": "<ENDĠF-TERMS>",
+  "pad_token": "<pad>"
+}
