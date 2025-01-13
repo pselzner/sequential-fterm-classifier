@@ -1,7 +1,11 @@
 # sequential-fterm-classifier
 A patent classifier that sequentially predicts f-terms for patent abtracts with a wide range of applications in practice and research. Technological vector representations are provided by the model and can be used for various metrics and applications.
+
 The model is available [here](https://huggingface.co/RWTH-TIME/galactica-125m-f-term-classification).
+
 The paper discussing the training, limitations and potential use-cases of the model can be found [here](https://aisel.aisnet.org/icis2024/data_soc/data_soc/3/).
+
+As of now we are working on a significantly advanced model that will be released in future. 
 
 
 ## Model Information
