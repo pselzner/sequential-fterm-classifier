@@ -18,9 +18,9 @@ The primary purpose of this model is to address limitations of traditional hiera
 - **Consistent global classification** to improve comparability across patent offices.
 
 
-|                       | Training Data                                                  | Params | Input Modalities  | Output Modalities         | Context Length | Vocabulary Size |
-| :-------------------- | :------------------------------------------------------------ | :----: | :---------------: | :-----------------------: | :------------: | :-------------: |
-| F-term Classifier     | 7,478,671 patent abstracts with F-term classifications from EPO Patstat | 670M  | Patent abstracts | F-term classifications (vector and text) | 512           | 428,165         |
+|                       | Training Data                                                  | Params | Input Modalities  | Output Modalities         | Vocabulary Size |
+| :-------------------- | :------------------------------------------------------------ | :----: | :---------------: | :-----------------------: | :-------------: |
+| F-term Classifier     | 7,478,671 patent abstracts with F-term classifications from EPO Patstat | 670M  | Patent abstracts | F-term classifications (vector and text) | 428,165         |
 
 
 ## Training
